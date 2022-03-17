@@ -6,15 +6,12 @@ require("dotenv").config();
 require("express-async-errors");
 const connectDB = require("./db/connect");
 const productsRouter = require("./routes/productsRouter");
+const mainRouter = require("./routes/mainRouter");
 // middleware
 app.use(express.json());
 
-// routes
-// app.get("/", (req, res) => {
-//   res.json({ data: "Hello" });
-// });
-
 app.use("/storeapi/products", productsRouter);
+app.use("/storeapi/", mainRouter);
 
 app.use(errorhandler);
 app.use(notfound);
