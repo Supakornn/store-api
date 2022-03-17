@@ -1,0 +1,30 @@
+{
+  "name": "store-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H3X-T/store-api.git"
+  },
+  "author": "Supakorn <supakorn2807@protonmail.com>",
+  "license": "MIT",
+  "description": "simple basic store api",
+  "bugs": {
+    "url": "https://github.com/H3X-T/store-api/issues"
+  },
+  "homepage": "https://github.com/H3X-T/store-api#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^6.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "albany sectional",
+    "price": 109,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "albany table",
+    "price": 309,
+    "stock": 100,
+    "available": false
+  },
+  {
+    "name": "armchair",
+    "price": 125,
+    "stock": 100,
+    "available": false
+  },
+  {
+    "name": "bar stool",
+    "price": 40,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "dining table",
+    "price": 42,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "emperor bed",
+    "price": 23,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "entertainment center",
+    "price": 59,
+    "stock": 100,
+    "available": false
+  },
+  {
+    "name": "high-back bench",
+    "price": 39,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "leather sofa",
+    "price": 99,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 31,
+    "stock": 100,
+    "available": false
+  },
+  {
+    "name": "modern poster",
+    "price": 30,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "simple chair",
+    "price": 109,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "sofa set",
+    "price": 129,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "suede armchair",
+    "price": 15,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "utopia sofa",
+    "price": 79,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "wooden desk",
+    "price": 40,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "stock": 100,
+    "available": true
+  },
+  {
+    "name": "a first wooden table",
+    "price": 23,
+    "stock": 100,
+    "available": false
+  }
+]
